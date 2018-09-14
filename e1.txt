@@ -1,0 +1,7 @@
+jim - Salesman
+Dwight - Salesman
+Pam - Receptionist
+Michael - Manager
+Oscar - Accountant
+Toby - Human resources
+Kelly - Customer Service
